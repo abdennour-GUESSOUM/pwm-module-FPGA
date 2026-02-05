@@ -140,23 +140,6 @@ int main() {
 
 Le projet inclut :
 - **Simulations comportementales** : testbenches dans `pwm.srcs/sim_1/`
-- **Tests matériels** : validation sur carte avec analyseur logique
-- **Tests logiciels** : vérification des registres AXI et signaux de sortie
+- **Tests matériels** : validation sur carte
+- **Tests logiciels** : vérification des registres et signaux de sortie
 
----
-
-## 7. Documentation complémentaire
-
-Pour une description détaillée de l'architecture, des registres AXI et des spécifications techniques, consulter la documentation complète (à venir).
-
----
-
-## Auteur
-
-**Abdennour GUESSOUM**
-
----
-
-## Licence
-
-Projet académique - Master 2
